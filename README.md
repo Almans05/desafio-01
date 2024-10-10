@@ -27,3 +27,4 @@ git commit -m "mensaje de referencia"
 ```sh
 siguiente etiquetas: h1,h2,h3,strong,span,br,p,li,ol,ul,i,em, entre otras 
 ``` 
+# pasar archivo a repositorio local 
